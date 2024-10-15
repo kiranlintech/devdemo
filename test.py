@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v19")
+print("Testing Jenkins auto trigger jobs")
